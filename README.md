@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Filippi - a brazilian studying MEng Computer Science at Leeds Beckett in the UK
+print("Hi, I’m Filippi - a brazilian studying MEng Computer Science at Leeds Beckett in the UK - Hello World!")
 - 👀 I’m looking to collaborate on projects with my classmates and professors
 - 🌱 I’m currently learning Python on the Computer Programming class
 - 📫 How to reach me - on Linkedin or at uni
