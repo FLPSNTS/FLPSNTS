@@ -1,8 +1,5 @@
 print("Hi, I’m Filippi - a brazilian studying MEng Computer Science at Leeds Beckett in the UK - Hello World!")
-- 👀 I’m looking to collaborate on projects with my classmates and professors
-- 🌱 I’m currently learning Python on the Computer Programming class
-- 📫 How to reach me - on Linkedin or at uni
-- ⚡ Fun fact: Massive Star Wars fan 
+- 👀 I’m looking to collaborate on projects with my classmates, professors, passion projects and the likes
 
 <!---
 FLPSNTS/FLPSNTS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
